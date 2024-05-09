@@ -1,0 +1,2 @@
+The general idea of this program is that when you register an account on the website and select a specific field, you can determine your level of proficiency in that field by taking a proficiency assessment. The program then grades your assessment and identifies your proficiency level, providing you with learning and development resources tailored to that field.
+I made this back end Using (C#,SQL Server ,ASP.net Framework)
